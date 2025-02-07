@@ -1,0 +1,38 @@
+﻿---
+ID: "4e2712cb-ec88-4299-9cd3-e1af4cf59072"
+Parent: "8f5bcd84-b344-4197-a891-da0e7390c99a"
+Template: "a25f725d-9ff0-4ebb-9ce4-7ad92cfdbcb9"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/resources/tailwind-starter/components"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2BBF8B35-538B-4BE2-86AC-0EB899BA8800}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Components
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12059dd7-e305-4e5c-8f88-11a7f42bab9c"
+      Hint: Title
+      Value: Components
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250207T015545Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Components
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7afbaa78-8954-4d1b-994e-13c42264ad2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250207T015715Z
