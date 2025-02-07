@@ -1,6 +1,6 @@
 ﻿---
-ID: "fcdc5a11-198f-4606-9c2c-d57604eaf585"
-Parent: "0c0671e4-4ddc-477d-afd5-450d9db65f64"
+ID: "c120b85a-2d5a-47c0-bbf8-af447815bad0"
+Parent: "d69b28d2-62ed-46a2-935a-e719d3dd0eb1"
 Template: "84f84200-ee11-4187-a837-f69643930741"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Carousel"
 Languages:
@@ -13,14 +13,14 @@ Languages:
       Value: 20250206T062229Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b115090d-68fe-4259-9f35-04308a1f712a"
+      Value: "86894a06-fb5e-40c2-a4d1-a5f0b9d50089"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105731Z
+      Value: 20250207T092906Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

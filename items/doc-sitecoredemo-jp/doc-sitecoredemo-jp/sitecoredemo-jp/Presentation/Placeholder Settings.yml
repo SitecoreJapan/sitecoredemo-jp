@@ -1,6 +1,6 @@
 ﻿---
-ID: "3e3cce69-34a5-4481-8081-f77d372de36b"
-Parent: "20bd188d-2787-487f-b15b-b58b37893e3d"
+ID: "8db741df-3829-4dce-bcc9-3dd087dd00da"
+Parent: "1358bf3a-8ac3-4485-ab83-aebe6a2711e4"
 Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Placeholder Settings"
 BranchID: "464d8f5a-4cf5-449d-bbe8-9c2005af65e6"
@@ -26,14 +26,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2e3d4f30-bc05-4455-8315-9be0aca4c1f0"
+      Value: "b2c11f85-e5b5-470a-b65a-86de7afbdb1e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105739Z
+      Value: 20250207T092911Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

@@ -1,6 +1,6 @@
 ﻿---
-ID: "098f4c9b-1690-4aa0-8378-7e75ada2e927"
-Parent: "9f505636-8d46-448d-aa1a-6b71e1e6a487"
+ID: "5c9dc5cf-8311-4b00-b72f-93febddca6e8"
+Parent: "e55f646a-cc8f-454f-a83a-17db28c033f3"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Placeholder Settings/Partial Design/Article"
 SharedFields:
@@ -25,11 +25,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "97d34665-de67-4095-ae1d-061bb1118749"
+      Value: "a31e7849-a86d-469a-94c8-6b179172fa52"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105740Z
+      Value: 20250207T092911Z

@@ -1,6 +1,6 @@
 ﻿---
-ID: "3babbf4a-ea5d-4e3d-86bf-6e6c210b4036"
-Parent: "a1ba999a-4784-4c64-bd1a-7336ca3f83ec"
+ID: "9d5cc7fb-f141-45af-8238-c7ea33b02aec"
+Parent: "aadcd073-a734-43fb-933f-444e0fee9828"
 Template: "29a2d68d-0df3-4c68-8f78-f5735fec7381"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Partial Designs/Footer"
 Languages:
@@ -13,14 +13,14 @@ Languages:
       Value: 20250206T055252Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6518454e-437b-496d-ba9c-46bcbbac1cb5"
+      Value: "acab47b6-6d12-4e23-9335-c23883f7c64d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105739Z
+      Value: 20250207T092910Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

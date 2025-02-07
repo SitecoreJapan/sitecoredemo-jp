@@ -1,6 +1,6 @@
 ﻿---
-ID: "20bd188d-2787-487f-b15b-b58b37893e3d"
-Parent: "34c588dd-22a5-47bb-8e58-48d4bd003cc8"
+ID: "1358bf3a-8ac3-4485-ab83-aebe6a2711e4"
+Parent: "91b65522-5592-40a5-978a-76ed187ea2fc"
 Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
@@ -29,14 +29,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3dd19007-043c-4534-964a-d9551aaa9a62"
+      Value: "d4072b6d-9232-4cc4-881d-e5e631609ce0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105733Z
+      Value: 20250207T092908Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

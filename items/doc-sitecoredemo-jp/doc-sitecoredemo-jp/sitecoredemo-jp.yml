@@ -1,5 +1,5 @@
 ﻿---
-ID: "34c588dd-22a5-47bb-8e58-48d4bd003cc8"
+ID: "91b65522-5592-40a5-978a-76ed187ea2fc"
 Parent: "ddbcf6a6-d2c4-41a0-bab0-9dd2b6914a5d"
 Template: "c53ed81b-fa20-446b-9718-611b81587265"
 Path: "/sitecore/content/starter/sitecoredemo-jp"
@@ -25,19 +25,19 @@ SharedFields:
     {1F35559F-2140-4774-8BC1-525BB722BAA2}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{786009D4-14B0-42ED-8BA9-45D6C2BCE9B2}"
+  Value: "{DE7491C1-0C65-44BE-A265-DEC8B4DACBD9}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
-  Value: "{D7080B68-AB79-4586-840F-1C677804EB21}"
+  Value: "{30E50700-EEFD-4ED7-B7AB-AD3DA652A0AF}"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: "sitecoredemo-jp"
 - ID: "89cecf4f-e545-44f2-813d-272c08661d14"
   Hint: Description
-  Value: Document site
+  Value: Document Site on XM Cloud
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
-  Value: "<image mediaid='6146EA53-1A20-498D-B996-91B608869873' />"
+  Value: "<image mediaid='E4B4CEEF-E6EE-4E7F-9D77-130F3018844F' />"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -62,11 +62,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0f01854b-97a6-4c57-b1fa-38616665eab3"
+      Value: "5c35d3c2-ee43-4422-887f-eccacb1e8115"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Anonymous
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105834Z
+      Value: 20250207T092947Z

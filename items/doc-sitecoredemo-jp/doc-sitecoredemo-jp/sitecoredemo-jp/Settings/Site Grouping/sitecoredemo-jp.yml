@@ -1,21 +1,18 @@
 ﻿---
-ID: "416032b7-528d-4649-a137-4488152a1fc0"
-Parent: "845ccf1c-7301-4c17-a985-9ac6b4f36d2e"
+ID: "4d873288-2c24-4b86-b5d2-a111ac9363cd"
+Parent: "4e0fafb7-9ef3-4cab-81eb-4bf7f824d3e8"
 Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Settings/Site Grouping/sitecoredemo-jp"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{E5DCF31D-EC62-4144-83C3-A6D5A20B08B9}"
+  Value: "{F7A0B7E3-6D1A-46F3-892A-7C70D4044653}"
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
-  Value: "{D7080B68-AB79-4586-840F-1C677804EB21}"
+  Value: "{30E50700-EEFD-4ED7-B7AB-AD3DA652A0AF}"
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
-- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
-  Hint: POS
-  Value: "en=doc.sitecoredemo.jp&ja-JP=ja.doc.sitecoredemo.jp"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: "sitecoredemo-jp"
@@ -24,7 +21,7 @@ SharedFields:
   Value: *
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: tailwindstarter
+  Value: Default
 Languages:
 - Language: en
   Versions:
@@ -32,7 +29,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250206T105832Z
+      Value: 20250207T092945Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -43,11 +40,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8df5aa2c-8fc0-4590-997f-dd851b9a4c0e"
+      Value: "c70e0e0a-7363-4cbf-93fc-71df204f2ed9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T111133Z
+      Value: 20250207T092946Z

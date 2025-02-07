@@ -1,6 +1,6 @@
 ﻿---
-ID: "fe8f9660-cc1a-4160-9817-cf095febace9"
-Parent: "34c588dd-22a5-47bb-8e58-48d4bd003cc8"
+ID: "65e1c4a8-b52c-476f-b7c3-c4401f5033e3"
+Parent: "91b65522-5592-40a5-978a-76ed187ea2fc"
 Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Dictionary"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
@@ -32,14 +32,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "173ce905-1b4a-4842-8525-791c6fad4a21"
+      Value: "4d3f8be6-2549-49cf-b508-8d8ebd3d4cc5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105733Z
+      Value: 20250207T092908Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

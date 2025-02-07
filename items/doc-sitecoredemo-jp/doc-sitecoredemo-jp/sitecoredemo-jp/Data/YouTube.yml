@@ -1,6 +1,6 @@
 ﻿---
-ID: "87714c93-0f87-434f-aa28-e042aa22c76f"
-Parent: "0c0671e4-4ddc-477d-afd5-450d9db65f64"
+ID: "d2f325cf-bc8a-4061-934e-d1b83ad1c8f9"
+Parent: "d69b28d2-62ed-46a2-935a-e719d3dd0eb1"
 Template: "deada183-2677-45a6-8444-86ce6f04a457"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/YouTube"
 Languages:
@@ -13,14 +13,14 @@ Languages:
       Value: 20250206T062213Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8237db96-91ca-4ff3-a9f6-93472ef5dc14"
+      Value: "769f3b20-9660-4081-8f51-109135c08ed8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105733Z
+      Value: 20250207T092908Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

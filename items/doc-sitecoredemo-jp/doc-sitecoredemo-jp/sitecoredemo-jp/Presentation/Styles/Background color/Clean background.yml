@@ -1,6 +1,6 @@
 ﻿---
-ID: "bd1151f5-59e6-4dff-b30c-69ff70479a1e"
-Parent: "91282157-41d7-4728-bac0-a429393fd8e2"
+ID: "4465fed4-8095-44f0-87f3-e4d1b4f4e92d"
+Parent: "74844cb8-61a2-49d7-bdc3-2d9f7caee2ad"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Styles/Background color/Clean background"
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -35,11 +35,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b304092c-335f-4f63-bc6e-658951aa2381"
+      Value: "ad391d77-efb5-43f8-bc36-0e90e69e0539"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105744Z
+      Value: 20250207T092912Z

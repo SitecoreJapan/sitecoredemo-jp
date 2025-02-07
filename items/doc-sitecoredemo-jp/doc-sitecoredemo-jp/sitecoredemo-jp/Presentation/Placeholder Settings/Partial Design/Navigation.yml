@@ -1,6 +1,6 @@
 ﻿---
-ID: "55b475b0-8ab6-440f-b215-ce8d01c66d99"
-Parent: "9f505636-8d46-448d-aa1a-6b71e1e6a487"
+ID: "13747d1b-2d11-4e78-bc40-dba739e55df1"
+Parent: "e55f646a-cc8f-454f-a83a-17db28c033f3"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Placeholder Settings/Partial Design/Navigation"
 SharedFields:
@@ -25,11 +25,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a88c81e2-972b-4a03-a74e-626719ddeaf4"
+      Value: "9e2f2835-8d83-4509-bd02-e21f297537e5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105740Z
+      Value: 20250207T092911Z

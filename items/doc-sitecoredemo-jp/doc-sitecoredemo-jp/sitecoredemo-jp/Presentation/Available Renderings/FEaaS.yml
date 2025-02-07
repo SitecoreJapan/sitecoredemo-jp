@@ -1,6 +1,6 @@
 ﻿---
-ID: "8c305573-7fe1-4203-9a54-1175824171d9"
-Parent: "30c44e1c-f3f5-4d78-9ed1-6a653abf8187"
+ID: "7953bf6b-e80f-43ee-8e71-661f075a50ef"
+Parent: "ef2ad97e-2076-4f2a-a2eb-7c606bd00887"
 Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Available Renderings/FEaaS"
 BranchID: "50b59b25-cc93-4ffc-9a9d-d9e6ba101096"
@@ -31,14 +31,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "95238cb4-004d-4bda-9db8-18065c94bb1b"
+      Value: "ed6b11f8-c1f5-457a-932f-afc75f38ce85"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105734Z
+      Value: 20250207T092908Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

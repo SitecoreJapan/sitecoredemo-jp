@@ -1,6 +1,6 @@
 ﻿---
-ID: "800be22e-72a7-4094-b2ec-a608cbb11018"
-Parent: "0c0671e4-4ddc-477d-afd5-450d9db65f64"
+ID: "4c64e829-628f-44ed-89b7-d0bcc2645272"
+Parent: "d69b28d2-62ed-46a2-935a-e719d3dd0eb1"
 Template: "55f1424b-0220-420a-8370-9ac1e95ff41c"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/CodeBlock"
 Languages:
@@ -13,14 +13,14 @@ Languages:
       Value: 20250206T062242Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ae57fd62-be69-4f1e-a8b0-fd0291057c13"
+      Value: "0168f237-1100-418c-9585-32b7abaf792d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105731Z
+      Value: 20250207T092906Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

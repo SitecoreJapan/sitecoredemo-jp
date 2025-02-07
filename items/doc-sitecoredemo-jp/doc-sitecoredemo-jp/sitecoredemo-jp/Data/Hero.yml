@@ -1,6 +1,6 @@
 ﻿---
-ID: "95167dee-01e1-4439-ad63-bb6a18fea16d"
-Parent: "0c0671e4-4ddc-477d-afd5-450d9db65f64"
+ID: "a3b8c751-c81d-4749-a3d7-2df6d4355bb9"
+Parent: "d69b28d2-62ed-46a2-935a-e719d3dd0eb1"
 Template: "fad84b43-ef47-4fe9-949d-79a41ba54155"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Hero"
 Languages:
@@ -13,14 +13,14 @@ Languages:
       Value: 20250206T062257Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "67d39225-5891-4731-8d95-43b1ae9cdf63"
+      Value: "acae795e-bbea-41d4-8371-509f916f1e9c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105731Z
+      Value: 20250207T092906Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

@@ -1,12 +1,12 @@
 ﻿---
-ID: "301b3974-9e3b-47f0-8d9f-7caa4b1429e3"
-Parent: "8181d21e-3a69-4f97-a2df-c5d8d7fb1a7a"
+ID: "bbb928b3-7113-41fa-90ea-63cd26f9f1c6"
+Parent: "b1ac4a11-a896-442e-b427-a1e8f21c8a31"
 Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Page Designs/Navigation"
 SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "D4CAAD4A-6F13-45D9-BA91-BCA95C4D9189|919F5EE9-9798-4D42-92B1-A7D971E295BF|EB80AA17-D2BD-4F57-ADF0-7D1104653F61"
+  Value: "40D824D0-57C7-4354-A8DE-3A101FFAA695|96E2C501-B93F-4267-867A-922294443751|DB31071A-94DB-49F7-9D2A-BA8DE53DCB88"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -29,11 +29,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e34e8d39-c324-4bac-9338-909ba322de9e"
+      Value: "0698cac5-01be-4cbb-86aa-c9ed25d0c848"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105807Z
+      Value: 20250207T092931Z

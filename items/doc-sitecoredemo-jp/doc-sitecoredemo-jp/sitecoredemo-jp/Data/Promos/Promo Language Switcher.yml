@@ -1,6 +1,6 @@
 ﻿---
-ID: "6e127de3-f6da-43b2-9258-b0f1f6d89805"
-Parent: "5ab781ed-e67d-42fa-b1ab-2e0264075c18"
+ID: "fc54e646-2924-48dd-926d-cd2b0ef55321"
+Parent: "c11fb93e-9a0f-4892-b5bb-701bf3c2c562"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Promos/Promo Language Switcher"
 Languages:
@@ -27,22 +27,22 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5279cee-0494-4a86-b15b-3a259b4c63d9"
+      Value: "04663c56-7f01-4d57-82ca-c95394a367ac"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105827Z
+      Value: 20250207T092943Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="internal" id="C1F269DF-4B0C-4064-AB79-4850DA74FA22" anchor="" querystring="" target="" class="" text="Learn more" title=""/>
+        <link linktype="internal" id="F19412EE-97A5-4E7D-9C29-D6A7B8A3344B" anchor="" querystring="" target="" class="" text="Learn more" title=""/>
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="9EA16224-C25D-4211-B966-C1CA3FE72FC3" />
+        <image mediaid="8261B676-B28C-4028-8EB1-77CEE499D394" />
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -66,19 +66,19 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "28571d1d-fbd0-4d18-82ba-0e46eafc2055"
+      Value: "0566d32e-01a7-43af-9ce0-c0707945083a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105827Z
+      Value: 20250207T092943Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="internal" id="C1F269DF-4B0C-4064-AB79-4850DA74FA22" anchor="" querystring="" target="" class="" text="詳細を見る" title=""/>
+        <link linktype="internal" id="F19412EE-97A5-4E7D-9C29-D6A7B8A3344B" anchor="" querystring="" target="" class="" text="詳細を見る" title=""/>
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="9EA16224-C25D-4211-B966-C1CA3FE72FC3" />
+        <image mediaid="8261B676-B28C-4028-8EB1-77CEE499D394" />

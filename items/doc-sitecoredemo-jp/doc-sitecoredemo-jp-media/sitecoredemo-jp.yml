@@ -1,5 +1,5 @@
 ﻿---
-ID: "d7080b68-ab79-4586-840f-1c677804eb21"
+ID: "30e50700-eefd-4ed7-b7ab-ad3da652a0af"
 Parent: "7ef1f838-fb23-4772-a55f-6d238ca2c6b2"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Project/starter/sitecoredemo-jp"
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c018bdb6-c44b-40f1-93a4-df8970ead5aa"
+      Value: "a1f7e918-5f00-4217-a95c-445735bd7f4e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105812Z
+      Value: 20250207T092934Z
