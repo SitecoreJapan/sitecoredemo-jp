@@ -3,6 +3,10 @@ ID: "f830378f-17d8-4103-b891-9ee3830ab49a"
 Parent: "f7a0b7e3-6d1a-46f3-892a-7c70d4044653"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Data"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
 Languages:
 - Language: en
   Versions:
@@ -21,14 +25,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8d56f1ad-abb4-4180-a0ef-e55297d0894a"
+      Value: "526cfb95-8b4d-46a8-b1b7-a1f7f3f76f3a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092905Z
+      Value: 20250209T063846Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

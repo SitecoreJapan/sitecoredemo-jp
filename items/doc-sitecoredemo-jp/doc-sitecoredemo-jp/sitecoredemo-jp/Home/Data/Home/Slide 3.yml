@@ -1,0 +1,70 @@
+﻿---
+ID: "6f6073dd-6138-4f20-b979-e3670f99a94d"
+Parent: "4133fa0c-7b17-4de0-9dd8-99c4c58d0983"
+Template: "b9b01c22-8be0-4a57-9a72-33187845b338"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Data/Home/Slide 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T082124Z
+    - ID: "31360bc3-fba0-439f-abac-020fddd44123"
+      Hint: Title
+      Value: Title
+    - ID: "31455fdd-9612-4345-9d0c-09237088d71c"
+      Hint: Image
+      Value: |
+        <image src="https://sitecoredemojp.sitecoresandbox.cloud/api/public/content/ed14e19ca7584160af98c85fad555dd5?v=afffa78f" dam-id="cenU_alFQJi1ZKJQSnvCog" width="1100" height="733" alt="GettyImages-981626376.jpg" dam-content-type="Image" thumbnailsrc="https://sitecoredemojp.sitecoresandbox.cloud/api/gateway/34713/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39b3ccb5-928b-4b0e-ba4c-d73e4ef3a2ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T082151Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250212T055247Z
+    - ID: "31360bc3-fba0-439f-abac-020fddd44123"
+      Hint: Title
+      Value: Title
+    - ID: "31455fdd-9612-4345-9d0c-09237088d71c"
+      Hint: Image
+      Value: |
+        <image width="6294" height="4196" dam-id="cenU_alFQJi1ZKJQSnvCog" src="https://sitecoredemojp.sitecoresandbox.cloud/api/public/content/ed14e19ca7584160af98c85fad555dd5?v=afffa78f" alt="GettyImages-981626376.jpg" dam-content-type="Image" thumbnailsrc="https://sitecoredemojp.sitecoresandbox.cloud/api/gateway/34713/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca016c7e-6892-4bb9-8d33-8bc39d5c7372"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T055401Z

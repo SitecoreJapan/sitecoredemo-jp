@@ -4,10 +4,13 @@ Parent: "f7a0b7e3-6d1a-46f3-892a-7c70d4044653"
 Template: "a25f725d-9ff0-4ebb-9ce4-7ad92cfdbcb9"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Home/tools"
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{77662C24-2AD9-4DB9-B3A3-2E12BEC78D24}" />
+    <image mediaid="{ABFD974D-FA4D-4CA8-9D0A-447EC4E21E1B}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -43,18 +46,23 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{51F22AA6-0C33-4192-804E-E02A27ADDD4B}"
+              uid="{9CD82524-3CF7-478B-84C8-81423BAA4293}">
+              <p:da
+                name="ds" />
+            </r>
+            <r
+              uid="{00E8E03A-5E80-4393-B0C4-9A367079CC5D}"
               p:after="r[@uid='{9CD82524-3CF7-478B-84C8-81423BAA4293}']"
-              s:ds="FC54E646-2924-48DD-926D-CD2B0EF55321"
+              s:ds="fc54e646-2924-48dd-926d-cd2b0ef55321"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B40868948-6FC6-4CDF-9AE2-FEE0E3C4D3E5%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-navigation/row-2-1/column-1-1" />
             <r
-              uid="{D1487442-4AE3-4F94-8C4D-6BA096881B1E}"
+              uid="{150A4223-093E-42F6-A6AB-8B6E6896BEDD}"
               p:after="*[1=2]"
-              s:ds="09ED0CB5-4575-4283-9122-F0D0471364B6"
+              s:ds="09ed0cb5-4575-4283-9122-f0d0471364b6"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B40868948-6FC6-4CDF-9AE2-FEE0E3C4D3E5%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B40868948-6FC6-4CDF-9AE2-FEE0E3C4D3E5%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
               s:ph="/headless-main/sxa-navigation/row-2-1/column-2-1" />
           </d>
         </r>
@@ -69,14 +77,14 @@ Languages:
       Value: Tools
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ceb6c1cd-17c2-4435-a134-76b0a225f3b7"
+      Value: "37f384a7-e799-4cee-98a1-2aff2e842cb5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092942Z
+      Value: 20250212T043317Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

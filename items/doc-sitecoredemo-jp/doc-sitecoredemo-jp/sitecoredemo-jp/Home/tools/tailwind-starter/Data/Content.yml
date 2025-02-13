@@ -63,27 +63,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: |
-        <h3>Next.js × Tailwind CSS × XM Cloud スターターキット</h3>
-        
-        <p>最高の開発体験を、最速で。</p>
-        <p>
-        XM Cloud のパワフルな機能を Next.js と Tailwind CSS のモダンな開発スタックで最大限に活用できるスターターキット。
-        開発スピードとパフォーマンスを両立し、ヘッドレス CMS の柔軟性を活かしながら、洗練された UI を素早く構築可能。</p>
-        <ul>
-        <li>Next.js で最適化されたパフォーマンスと SEO を実現</li>
-        <li>Tailwind CSS による効率的でカスタマイズ自在なデザイン</li>
-        <li>XM Cloud とのシームレスな統合でコンテンツ管理を強化</li>
-        <li>開発環境セットアップ不要！ クラウド上ですぐに構築・デプロイ</li>
-        </ul>
-        <p>これからの Sitecore 開発 は、このスターターキットで もっと速く、もっと自由に。 </p>
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c3401c75-fc9d-4a23-a25a-c9758592a0ae"
+      Value: "f657ed69-4d02-4387-b6cb-319c5d5e81a1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T143057Z
+      Value: 20250212T044028Z

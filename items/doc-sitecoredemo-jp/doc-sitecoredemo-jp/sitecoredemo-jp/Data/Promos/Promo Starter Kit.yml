@@ -27,18 +27,18 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "077dc857-6530-47f9-b3c5-806b39eb0fb9"
+      Value: "398d63ba-6ed7-484c-a2ad-5375b6c00a96"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092943Z
+      Value: 20250209T063847Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="internal" id="8582984D-91E2-4629-A33F-CBF1E60584AF" anchor="" querystring="" target="" class="" text="Learn more" title=""/>
+        <link class="" querystring="" id="8582984D-91E2-4629-A33F-CBF1E60584AF" anchor="" target="" title="" linktype="internal" text="Learn more" url="/starter/sitecoredemo-jp/Home/tools/tailwind-starter" />
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
@@ -66,18 +66,18 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "126ef212-9f7a-4aa9-9bd9-3b928131ad00"
+      Value: "b924be8f-3bb0-426e-84d0-255a59291820"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092943Z
+      Value: 20250209T063848Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="internal" id="8582984D-91E2-4629-A33F-CBF1E60584AF" anchor="" querystring="" target="" class="" text="詳細を見る" title=""/>
+        <link class="" querystring="" id="8582984D-91E2-4629-A33F-CBF1E60584AF" anchor="" target="" title="" linktype="internal" text="詳細を見る" url="/starter/sitecoredemo-jp/Home/tools/tailwind-starter" />
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |

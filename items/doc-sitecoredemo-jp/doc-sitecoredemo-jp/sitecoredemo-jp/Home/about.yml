@@ -6,11 +6,11 @@ Path: "/sitecore/content/starter/sitecoredemo-jp/Home/about"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 300
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{6E4DB01E-1D4B-4D11-93F8-F941F96E3C0E}" />
+    <image mediaid="{041D86A2-4ABE-4B52-9D3B-FBCC840F6CD1}" />
 Languages:
 - Language: en
   Fields:
@@ -49,14 +49,14 @@ Languages:
       Value: About
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c2dd5e4c-94a1-4e5b-b0c1-66200e9a137e"
+      Value: "9c50c626-d9e2-4cb7-8b80-c2caa6f6e8e0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092943Z
+      Value: 20250209T063846Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

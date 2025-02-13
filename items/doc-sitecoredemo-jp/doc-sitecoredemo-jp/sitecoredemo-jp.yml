@@ -37,7 +37,7 @@ SharedFields:
   Value: Document Site on XM Cloud
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
-  Value: "<image mediaid='E4B4CEEF-E6EE-4E7F-9D77-130F3018844F' />"
+  Value: "<image mediaid='824e1a43-161d-4d57-8689-96dceefeeef1' />"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -62,11 +62,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5c35d3c2-ee43-4422-887f-eccacb1e8115"
+      Value: "43bafa4a-ec91-45ef-b4a9-c43c626fc489"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Anonymous
+        sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092947Z
+      Value: 20250212T054718Z

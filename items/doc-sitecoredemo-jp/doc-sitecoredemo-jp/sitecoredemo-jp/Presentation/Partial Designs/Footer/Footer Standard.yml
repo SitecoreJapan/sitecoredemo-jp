@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{8CF2A20F-EDA5-4671-B6BF-DAD0D6271A0B}" />
+    <image mediaid="{5B52E005-2764-4134-9C94-71DCB1F9C1B9}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -27,8 +27,9 @@ SharedFields:
         <r
           uid="{94FFF3E1-959D-4CB3-BB11-50188C2C8BFA}"
           p:after="r[@uid='{6A270994-8D87-4550-AF99-384D69CDA8B1}']"
+          s:ds=""
           s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
-          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFB38B5B2-6E46-4920-949D-6CAF8ADCE01D%7D&amp;Styles=%7C%7B0E361C47-B0AC-4CC8-B6F7-2C2D0C52956A%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter&amp;Flattened&amp;AddRoot=1&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B8D1BC609-7CD6-445F-A113-FF86F433529B%7D%7C%7B0DEC674E-9212-47A5-8FDB-C9096C8A429B%7D&amp;FieldNames=%7BFB38B5B2-6E46-4920-949D-6CAF8ADCE01D%7D&amp;Styles=%7B0E361C47-B0AC-4CC8-B6F7-2C2D0C52956A%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter&amp;Flattened&amp;AddRoot=1&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
           s:ph="/headless-footer/container-1" />
         <r
           uid="{9B530C38-6DB0-43C5-81DA-A50384FCABD3}"
@@ -60,11 +61,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "991b699b-c5e5-443c-92da-8584e6c4b9a2"
+      Value: "077dcd3b-238e-4656-a79e-2dc22329b595"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250207T092932Z
+      Value: 20250212T055125Z
