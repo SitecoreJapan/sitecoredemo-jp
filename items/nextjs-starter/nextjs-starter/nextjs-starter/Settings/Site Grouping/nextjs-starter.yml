@@ -16,7 +16,7 @@ SharedFields:
   Value: 
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
-  Value: "{EBBC9146-D75D-4272-9E1A-45215D1335DE}"
+  Value: "/sitecore/media library/Project/starter/nextjs-starter"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: "nextjs-starter"
@@ -31,7 +31,7 @@ SharedFields:
   Value: *
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
-  Value: "en=nextjs-starter_4"
+  Value: "en=nextjs-starter"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: "nextjs-starter"
@@ -62,11 +62,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "48084078-acfb-4ef3-a78f-ddcd8f81d72b"
+      Value: "dd9545b9-7752-4987-bdf5-7005bc8189ef"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T041358Z
+      Value: 20250213T044307Z

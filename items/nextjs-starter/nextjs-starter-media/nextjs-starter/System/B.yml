@@ -1,8 +1,8 @@
 ﻿---
-ID: "24f5480b-0819-46dd-b2d7-cdb2a710d7a9"
-Parent: "5d181aaf-e5c1-45a7-b4e3-7f9636a71cb6"
+ID: "d87d8c9d-4902-463b-9d62-1e73e24a0f33"
+Parent: "3be7aa9b-fbb1-4c90-b0c3-61a67abc48d8"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/starter/nextjs-starter/System/0/2"
+Path: "/sitecore/media library/Project/starter/nextjs-starter/System/B"
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250213T040734Z
+      Value: 20250213T025438Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4ee6fc0b-2430-45e2-ab8b-6569f9a99d61"
+      Value: "086f90a2-5345-4cfd-901f-d525fa02f7f7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T040734Z
+      Value: 20250213T025438Z
