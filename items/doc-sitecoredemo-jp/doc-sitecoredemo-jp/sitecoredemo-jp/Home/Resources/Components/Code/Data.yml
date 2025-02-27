@@ -2,7 +2,7 @@
 ID: "f43fe281-e0c0-45bd-b896-58dd7a544a7d"
 Parent: "129a2a8d-6366-4166-a4ff-3f8ca9047201"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
-Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/CodeBlock/Data"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/Code/Data"
 Languages:
 - Language: en
   Versions:

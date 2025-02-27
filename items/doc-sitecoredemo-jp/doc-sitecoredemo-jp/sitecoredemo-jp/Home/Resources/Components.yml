@@ -65,10 +65,6 @@ Languages:
       Hint: __Updated
       Value: 20250212T081354Z
 - Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: コンポーネント
   Versions:
   - Version: 1
     Fields:
@@ -100,19 +96,13 @@ Languages:
               p:after="*[1=2]"
               s:ds="a53842f9-2f4d-4fb9-b4a9-473ea325bc21"
               s:id="{A9CF1EA0-EB49-4681-B855-1CE292529F6F}"
-              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Edit&amp;FieldNames&amp;Styles=%7C%7B52032005-BF79-4F6B-B391-72D003E9F65B%7D&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Edit&amp;FieldNames&amp;Styles&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-navigation/row-2-1/row-1-1" />
           </d>
         </r>
-    - ID: "12059dd7-e305-4e5c-8f88-11a7f42bab9c"
-      Hint: Title
-      Value: コンポーネント
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250212T080926Z
-    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
-      Hint: NavigationTitle
-      Value: コンポーネント
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -123,11 +113,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d9c5c861-a9d9-40e3-b8b5-86e619356d92"
+      Value: "287b4539-3bd8-4af4-8709-e05209d25738"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T051554Z
+      Value: 20250212T081206Z
