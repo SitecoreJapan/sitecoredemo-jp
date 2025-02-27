@@ -16,26 +16,30 @@ Languages:
       Value: 20250207T094802Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c2f95f10-84e9-48f2-960c-f1161c00a084"
+      Value: "476ce5e5-0d35-43b0-8563-4344949c553c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T055830Z
+      Value: 20250218T014711Z
     - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
       Hint: Markdown
       Value: |
         ## Language Switching Tool
         
-        Our language switching tool provides a convenient feature that allows users to easily select their preferred language. It currently supports Danish, French, German, and Japanese, enabling smooth language switching with just one click.
+        Our language switching tool provides a convenient feature that allows users to easily select their preferred language. It currently supports **Danish**, French, German, and Japanese, enabling *smooth* language switching with just one click.
+        
+        ## Sample
         
         ### Main Features:
         
         - Intuitive UI – Simple and easy-to-use design
         - Instant Switching – Change languages without reloading the page
         - Multilingual Support – Supports four languages, with plans for future expansion
+        
+        ## Sample 2 
         
         By utilizing this tool, you can provide a more comfortable browsing experience for a wider audience. Give it a try!
 - Language: "ja-JP"

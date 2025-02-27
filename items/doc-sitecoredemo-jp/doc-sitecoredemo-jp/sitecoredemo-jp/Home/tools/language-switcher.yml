@@ -65,14 +65,14 @@ Languages:
       Value: Language Switcher
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4952e7f0-0c34-479c-8de6-2eee5e1c0ffe"
+      Value: "0005fed8-19df-41c9-933a-f8ec905d39fb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T055223Z
+      Value: 20250218T014728Z
     - ID: "dd63dc33-af92-49a6-9596-37d2e6eeddd2"
       Hint: Title
       Value: Language Switcher
@@ -126,14 +126,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4155fe80-8063-41e8-9e72-ed6ddb0fb837"
+      Value: "7ab46515-517c-440e-800b-7eaa90c0b0d2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T060007Z
-    - ID: "dd63dc33-af92-49a6-9596-37d2e6eeddd2"
-      Hint: Title
-      Value: 言語スイッチャー
+      Value: 20250220T074228Z

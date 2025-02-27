@@ -7,6 +7,9 @@ SharedFields:
 - ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
   Hint: Type
   Value: droplist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2850
 Languages:
 - Language: en
   Versions:
@@ -25,11 +28,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1fd52994-d7a9-48bf-b07b-1af19c79d48a"
+      Value: "9ae88153-56ec-4511-bc7c-df176146a1c6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250211T045547Z
+      Value: 20250227T074238Z

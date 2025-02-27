@@ -29,18 +29,22 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0124af4c-c953-46ea-98e6-0196037a9c5b"
+      Value: "4c1c5f56-29c1-4755-a8da-e73c97b9fb26"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T081244Z
+      Value: 20250213T051449Z
     - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
       Hint: Title
       Value: Component List
 - Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: コンポーネント
   Versions:
   - Version: 1
     Fields:
@@ -57,14 +61,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0b6cd466-7ea1-4b15-9084-27ec00511a9d"
+      Value: "e5638d20-69b2-46c1-9b79-7c635dccf03e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T081329Z
+      Value: 20250213T051427Z
     - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
       Hint: Title
       Value: コンポーネント一覧
