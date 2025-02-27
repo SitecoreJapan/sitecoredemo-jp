@@ -1,2 +1,3 @@
-# haramizu.com
- haramizu.com on Sitecore XM Cloud
+# doc.sitecoredemo.jp
+
+doc.sitecoredemo.jp on Sitecore XM Cloud
