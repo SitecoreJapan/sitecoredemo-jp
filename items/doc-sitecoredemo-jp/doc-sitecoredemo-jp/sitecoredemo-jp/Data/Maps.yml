@@ -1,6 +1,6 @@
 ﻿---
-ID: "6642973d-f189-46df-8696-cecf3e5452fc"
-Parent: "0c0671e4-4ddc-477d-afd5-450d9db65f64"
+ID: "8c49eb15-b7ed-4a1d-bacf-d4d103a09203"
+Parent: "d69b28d2-62ed-46a2-935a-e719d3dd0eb1"
 Template: "187540ab-57fb-450c-9f40-13cf759182a9"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Maps"
 Languages:
@@ -13,14 +13,14 @@ Languages:
       Value: 20250206T062310Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "26858a8a-3aa6-42ef-94af-912a9ff769c7"
+      Value: "2c22438e-91b8-416d-ac45-ad5ff728f719"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105732Z
+      Value: 20250207T092907Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

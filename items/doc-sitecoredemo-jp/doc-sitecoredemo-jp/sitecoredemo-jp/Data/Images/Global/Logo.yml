@@ -1,6 +1,6 @@
 ﻿---
-ID: "5fc2d261-ce4c-477d-a19d-639e8df4f3a3"
-Parent: "44e3ec54-12dc-49ab-8eba-78a5aae4bade"
+ID: "71258d9d-6203-496f-af75-d414715ee8aa"
+Parent: "f2d4c1c3-327c-48c3-b869-5d957acf304b"
 Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Images/Global/Logo"
 Languages:
@@ -18,21 +18,21 @@ Languages:
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
       Value: |
-        <image mediaid="{358BC19E-43B0-4632-A624-ABCE0EA0304B}" />
+        <image mediaid="{E1BE5E69-C25F-4287-8828-E458CD5DDB57}" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f14ad6dc-3ad6-4942-9eb7-c4a5b61c423f"
+      Value: "10b50dc7-3ebe-4162-b260-267bb5870492"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105826Z
+      Value: 20250207T092943Z
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -47,18 +47,18 @@ Languages:
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
       Value: |
-        <image mediaid="{358BC19E-43B0-4632-A624-ABCE0EA0304B}" />
+        <image mediaid="{E1BE5E69-C25F-4287-8828-E458CD5DDB57}" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "da650db8-1308-4025-943f-7fc0ee3d6b58"
+      Value: "d9c33318-f147-4ecb-9d51-e181bf24af1e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105826Z
+      Value: 20250207T092943Z

@@ -1,6 +1,6 @@
 ﻿---
-ID: "9067db87-edcd-47e2-9976-d477c458aee2"
-Parent: "fc4e99e6-66e7-410f-a3ed-774e29589243"
+ID: "13c1eef1-b745-4cf7-b39a-1ad4354f8441"
+Parent: "7554169e-db72-4794-a580-87aef57e6ba1"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Styles/Add highlight/Highlighted top"
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -45,11 +45,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0ba7ef99-eb8c-45a8-84d1-e0d18f3dd6aa"
+      Value: "84f5996e-0b3b-423f-8350-61f990da81f2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105743Z
+      Value: 20250207T092912Z

@@ -1,6 +1,6 @@
 ﻿---
-ID: "3877bc8d-70ca-480f-bb38-c3ccd5309253"
-Parent: "a0c80897-dd48-465e-9082-abbf73408276"
+ID: "0c110dff-9333-4666-a30f-bff1b12ab271"
+Parent: "c923226a-afba-41bc-999f-3c197c4ebb44"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Headless Variants/ThemeSwitcher/WithButton"
 Languages:
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "19324e4e-99b8-4ade-bedd-fdbc98cb6465"
+      Value: "52ee33c4-37b1-4748-ae73-7a50055068e9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105737Z
+      Value: 20250207T092909Z

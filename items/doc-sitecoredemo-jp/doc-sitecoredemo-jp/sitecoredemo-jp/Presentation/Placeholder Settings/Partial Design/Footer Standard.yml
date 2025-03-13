@@ -1,6 +1,6 @@
 ﻿---
-ID: "64fc8ef7-372b-4c78-b2ad-862e3ed90a5a"
-Parent: "9f505636-8d46-448d-aa1a-6b71e1e6a487"
+ID: "c25cd367-b87d-4bb3-b1bb-4bce0078afe9"
+Parent: "e55f646a-cc8f-454f-a83a-17db28c033f3"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Placeholder Settings/Partial Design/Footer Standard"
 SharedFields:
@@ -25,11 +25,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e99fc1f-92b7-41fd-88b4-0712d82df14a"
+      Value: "fe5cd93f-6d1d-4798-bd90-d5ef042f5fcb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105740Z
+      Value: 20250207T092911Z

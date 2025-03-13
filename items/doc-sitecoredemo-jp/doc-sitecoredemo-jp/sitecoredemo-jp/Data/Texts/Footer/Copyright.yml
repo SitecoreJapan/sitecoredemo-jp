@@ -1,6 +1,6 @@
 ﻿---
-ID: "477268ac-534f-4d40-b495-1e7f9d16d5ab"
-Parent: "a51c2e7e-f152-4c48-83a2-8c777654af10"
+ID: "3da9c561-d811-437a-8d44-059154dc62da"
+Parent: "4f6fc6ba-54a3-4536-bb09-3b39376897ad"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Texts/Footer/Copyright"
 Languages:
@@ -24,14 +24,14 @@ Languages:
       Value: "<p>Corpyright Sitecore Demo - Tailwind Starter Basic</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "79bf373a-2479-40b2-bcdb-f71196013a15"
+      Value: "d818842a-51cb-4daf-9b61-8ae71ec63c09"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105733Z
+      Value: 20250207T092907Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

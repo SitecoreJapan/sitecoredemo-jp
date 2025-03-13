@@ -1,6 +1,6 @@
 ﻿---
-ID: "456d4545-e1bc-40cb-9ffa-2b1d7b6e48c1"
-Parent: "3e46dc14-b369-4ce3-af62-b456fc18ff1d"
+ID: "860a4129-fa26-42cc-af1f-033251c35af4"
+Parent: "a850fd3e-748c-4f07-9abf-6aba051c8653"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Styles/Common/Button link style"
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -38,11 +38,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "43b22d1c-8236-45db-b93e-c8d0dc2c4091"
+      Value: "f511337e-8a98-4d7d-bd5a-acd5983c5762"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105749Z
+      Value: 20250207T092915Z

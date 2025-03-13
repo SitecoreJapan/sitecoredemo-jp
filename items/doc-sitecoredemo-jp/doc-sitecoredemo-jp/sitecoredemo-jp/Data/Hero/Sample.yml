@@ -1,0 +1,37 @@
+﻿---
+ID: "0b475e0d-7522-4f70-894d-c6baa542629a"
+Parent: "a3b8c751-c81d-4749-a3d7-2df6d4355bb9"
+Template: "ab4a6f08-5ed9-4908-b259-53a6cd2c635b"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Hero/Sample"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250227T031414Z
+    - ID: "2a2813c3-9bde-4d28-9452-45ab8d032943"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="ebca088b-fa5b-493e-8832-5e0af4e4fd2b" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d6559fe-ccb9-44ac-a31e-9a32a730433f"
+    - ID: "a8a66bfc-cfbb-4c46-b455-9962ccf0fda8"
+      Hint: HeroTitle
+      Value: Hero sample
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250227T031442Z
+    - ID: "f628b356-c4f6-4e8d-ae2f-f99f7480ae35"
+      Hint: HeroText
+      Value: |
+        <div class="ck-content"><p>Hero sample description</p></div>

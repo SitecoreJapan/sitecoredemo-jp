@@ -1,0 +1,68 @@
+﻿---
+ID: "02210144-f8fc-4cf4-8d9e-5aa5bfe56f5b"
+Parent: "f5d92787-002d-49ed-b12c-00b02ba9f770"
+Template: "9d5288c5-3269-4346-a06c-c211fef13d03"
+Path: "/sitecore/content/starter/nextjs-starter/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CE1261AA-0214-4D74-AB01-9D6C7CB9D518}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E243D5DA-5655-4152-9423-B55A1F8E0EBE}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b5F49D3E5-83BD-4B49-8141-3197EF6338D1%7d%7c%7b2CB54534-DCD9-42D0-ADF9-42D2E5E1EF6A%7d%7c%7b27E122C7-3F62-4E9F-9175-00DDA1DE592A%7d%7c%7bF6B6C544-5936-49EA-9246-1EC3DCEA7588%7d%7c%7b4B36A0D5-49FE-43B9-B196-77ACF1D4698E%7d%7c%7b17BFB3E1-987F-4315-BC0E-B00688A4E42A%7d%7c%7b09D60F54-D215-45A4-B745-49ECABE5DCE4%7d%7c%7bE3F1AF89-EAE1-472A-9659-DC34D8269C77%7d%7c%7b1D19A92E-B946-4D1C-9913-A41B835C6D74%7d%7c%7b32C52DED-1D63-40C0-807C-71F6DC0BCB3F%7d%7c%7bFD03BF81-D6DA-4C53-8DC0-E71848543716%7d%7c%7bEDF5E24D-9861-4381-AD6B-77B6424A9D8E%7d%7c%7b79AE9576-A154-438C-942A-0F3F84FBC11A%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{A6BA546B-2E49-4BA2-B910-6B2EDAE2CFEE}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7bFE99B062-038C-4497-9BA5-80C74D3734F1%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250213T040721Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e126ac52-1fac-4746-83fc-0de2f19c7e14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250213T040733Z
+    - ID: "dd63dc33-af92-49a6-9596-37d2e6eeddd2"
+      Hint: Title
+      Value: About

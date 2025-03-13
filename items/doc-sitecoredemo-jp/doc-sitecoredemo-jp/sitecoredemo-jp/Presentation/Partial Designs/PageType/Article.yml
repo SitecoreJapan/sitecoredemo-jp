@@ -1,6 +1,6 @@
 ﻿---
-ID: "6c2ef5aa-0744-4496-993e-0cd271ee5d27"
-Parent: "916608bb-3f05-4f0b-9faf-0a6d436e90db"
+ID: "37b3ab69-14b5-4179-8278-2a962ab02cff"
+Parent: "8d0bb273-b94e-427c-b667-97069073c014"
 Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Partial Designs/PageType/Article"
 SharedFields:
@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A56B9734-A94E-4496-9364-68D632316206}" />
+    <image mediaid="{B14BCB51-D3DD-40D7-9216-1164F1C1E532}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -22,7 +22,7 @@ SharedFields:
           uid="{5AB07AAA-5821-4781-822F-78EDBE0B56F5}"
           p:before="*"
           s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
-          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D"
           s:ph="headless-main" />
         <r
           uid="{4F20B5B0-AEED-49E7-8084-B47401D2D081}"
@@ -53,11 +53,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e84936a8-daef-4964-9e61-e83262d7d3a2"
+      Value: "e2f9a3a3-e9e0-4123-a4b5-e2e8ffd8bd3a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105739Z
+      Value: 20250228T091505Z

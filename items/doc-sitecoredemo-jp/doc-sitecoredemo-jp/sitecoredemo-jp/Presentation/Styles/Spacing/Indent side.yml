@@ -1,6 +1,6 @@
 ﻿---
-ID: "72bf4203-9c5e-45ed-b1dd-1107b2a222d9"
-Parent: "555e4c15-dfaa-4186-b7d5-7f78cac53a3e"
+ID: "9bdaebd2-dc17-44dd-87de-8bea0c959469"
+Parent: "3f98a337-6bf2-4b30-8aec-5bd81eb50057"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Styles/Spacing/Indent side"
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -38,11 +38,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "01d26b78-8117-43a4-b77b-53f1e1a5945b"
+      Value: "a839652c-c3f6-453f-9782-b51825b1ef6f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105742Z
+      Value: 20250207T092912Z

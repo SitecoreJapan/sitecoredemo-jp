@@ -1,13 +1,13 @@
 ﻿---
-ID: "fe348bed-3cb9-49e4-9206-276fa73f34c9"
-Parent: "34c588dd-22a5-47bb-8e58-48d4bd003cc8"
+ID: "e6eda1b8-eae2-419a-8d9b-157549e7d4a0"
+Parent: "91b65522-5592-40a5-978a-76ed187ea2fc"
 Template: "22ef7057-9ff2-4641-adad-874c13a7486a"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Settings"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
-  Value: "{FE8F9660-CC1A-4160-9817-CF095FEBACE9}"
+  Value: "{65E1C4A8-B52C-476F-B7C3-C4401F5033E3}"
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
@@ -22,7 +22,7 @@ SharedFields:
   Value: "tailwind-basic"
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
-  Value: "{0C0671E4-4DDC-477D-AFD5-450D9DB65F64}"
+  Value: "{D69B28D2-62ED-46A2-935A-E719D3DD0EB1}"
 - ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
   Hint: PlaceholdersPath
   Value: "{93D9DC9C-C76F-465E-987B-38290E084DC4}"
@@ -34,7 +34,7 @@ SharedFields:
   Value: http
 - ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
   Hint: DictionaryPath
-  Value: "{FE8F9660-CC1A-4160-9817-CF095FEBACE9}"
+  Value: "{65E1C4A8-B52C-476F-B7C3-C4401F5033E3}"
 - ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
   Hint: Grid Mapping
   Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B9CA06BD0-CD73-4718-9A3D-D000D07EC771%257D"
@@ -77,14 +77,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "989e6bf4-4e22-4958-acb2-6ef438070806"
+      Value: "2f90c63e-771f-4c5f-bb50-2ef5f5d20ee5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105811Z
+      Value: 20250207T092933Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -106,11 +106,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "598c4c20-7803-4d55-b836-c0a6be388ee9"
+      Value: "2569afee-564f-450a-a54d-4bfdd2e085d4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105811Z
+      Value: 20250207T092933Z

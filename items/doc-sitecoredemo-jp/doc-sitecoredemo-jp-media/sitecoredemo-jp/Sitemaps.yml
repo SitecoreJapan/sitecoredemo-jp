@@ -1,6 +1,6 @@
 ﻿---
-ID: "1959d09f-d985-422a-a797-ca61bfc40692"
-Parent: "d7080b68-ab79-4586-840f-1c677804eb21"
+ID: "e0e01c4c-154d-4b3c-8ea5-1a3645faff97"
+Parent: "30e50700-eefd-4ed7-b7ab-ad3da652a0af"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Project/starter/sitecoredemo-jp/Sitemaps"
 Languages:
@@ -21,11 +21,11 @@ Languages:
         sitecore\Anonymous
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "49f2c752-4c7d-4bd0-b342-8e562691822d"
+      Value: "9f76ef1e-3903-4ebc-9ac4-0b313f7e66d9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105815Z
+      Value: 20250207T092935Z

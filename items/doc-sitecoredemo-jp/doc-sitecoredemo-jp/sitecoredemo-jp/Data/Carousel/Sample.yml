@@ -1,0 +1,59 @@
+﻿---
+ID: "09eb1337-b275-4579-9ace-34198b929911"
+Parent: "c120b85a-2d5a-47c0-bbf8-af447815bad0"
+Template: "d46369ca-0243-49ab-b0e4-7c436b9a45c8"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Carousel/Sample"
+BranchID: "331f2bb8-5322-4c24-af38-9c6aedfa97a5"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5F743402-222C-473E-922B-1A9C68D9515A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11c7fcda-cc4e-4192-9133-2b0dcbacc992"
+      Hint: Title
+      Value: Sample
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250209T055602Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6eca22a0-b2c0-48a8-ac78-7a76ec9d4085"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250227T031014Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11c7fcda-cc4e-4192-9133-2b0dcbacc992"
+      Hint: Title
+      Value: Sample
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250212T055321Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a40672c-8eb0-4e06-9736-a23bc3187b75"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T055326Z

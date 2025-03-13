@@ -1,6 +1,6 @@
 ﻿---
-ID: "2d3219ab-c291-419e-b121-e13815e59474"
-Parent: "87aa9bfd-e0c4-4d98-8a33-474418783098"
+ID: "9dabd68f-7382-48cd-bd0a-bcd26f4716fe"
+Parent: "c6d065c0-100e-4e5a-a3de-d897c2fbd69b"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Styles/Rich text/Custom bullet points"
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -37,11 +37,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4922961b-1260-4d35-896b-05792c180bfc"
+      Value: "7ccf0614-0968-40d2-a86f-1433976088d2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105746Z
+      Value: 20250207T092914Z

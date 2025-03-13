@@ -1,6 +1,6 @@
 ﻿---
-ID: "7465d75e-907e-4dcc-bbcc-f1a35d17fbb7"
-Parent: "5ab781ed-e67d-42fa-b1ab-2e0264075c18"
+ID: "09ed0cb5-4575-4283-9122-f0d0471364b6"
+Parent: "c11fb93e-9a0f-4892-b5bb-701bf3c2c562"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
 Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Promos/Promo Starter Kit"
 Languages:
@@ -27,22 +27,22 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0faac6a0-812b-4d12-84bf-d7bad33e42d1"
+      Value: "398d63ba-6ed7-484c-a2ad-5375b6c00a96"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105827Z
+      Value: 20250209T063847Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="internal" id="F16C2446-7237-424B-8C73-A6F984B61C9A" anchor="" querystring="" target="" class="" text="Learn more" title=""/>
+        <link class="" querystring="" id="8582984D-91E2-4629-A33F-CBF1E60584AF" anchor="" target="" title="" linktype="internal" text="Learn more" url="/starter/sitecoredemo-jp/Home/tools/tailwind-starter" />
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="02426D5A-25DF-496B-B522-CB667C7A2D22" />
+        <image mediaid="12C94018-A82A-4D54-B6DE-D5882F997F81" />
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -66,19 +66,19 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "56ad897e-a53b-4b3d-a532-e1af9804b622"
+      Value: "b924be8f-3bb0-426e-84d0-255a59291820"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105828Z
+      Value: 20250209T063848Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="internal" id="F16C2446-7237-424B-8C73-A6F984B61C9A" anchor="" querystring="" target="" class="" text="詳細を見る" title=""/>
+        <link class="" querystring="" id="8582984D-91E2-4629-A33F-CBF1E60584AF" anchor="" target="" title="" linktype="internal" text="詳細を見る" url="/starter/sitecoredemo-jp/Home/tools/tailwind-starter" />
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="02426D5A-25DF-496B-B522-CB667C7A2D22" />
+        <image mediaid="12C94018-A82A-4D54-B6DE-D5882F997F81" />

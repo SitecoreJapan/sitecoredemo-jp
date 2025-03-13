@@ -1,6 +1,6 @@
 ﻿---
-ID: "9634b2bc-37e0-49fc-a5be-c2f7792dc1ef"
-Parent: "d7080b68-ab79-4586-840f-1c677804eb21"
+ID: "57f313a0-c0df-416c-855a-3abb7c423c75"
+Parent: "30e50700-eefd-4ed7-b7ab-ad3da652a0af"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Project/starter/sitecoredemo-jp/Logo"
 Languages:
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21dfe18b-212e-4d47-9b5c-c8c8a8ac0b4b"
+      Value: "4adbc2a1-4850-412f-8a6e-730e042c7bb1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250206T105814Z
+      Value: 20250207T092935Z

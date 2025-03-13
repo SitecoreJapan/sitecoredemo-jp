@@ -1,0 +1,73 @@
+﻿---
+ID: "a53842f9-2f4d-4fb9-b4a9-473ea325bc21"
+Parent: "fc8868ee-844e-4717-9b5d-b24c112fe820"
+Template: "6a7d5be4-5f7e-4eef-9e25-5d4e5bb9be3e"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Markdown/Component Overview"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250212T080244Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2539b9c5-e131-4708-8890-601c6e6086aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250228T091744Z
+    - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
+      Hint: Markdown
+      Value: |
+        ## Component List
+        
+        The following are links to the list of sample components provided on this site. Some components also work on each page.
+        
+        ### Sample 1
+        
+        List
+        - Test
+        - Test
+        - Test
+        
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250212T081114Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dc77510-4062-4009-861d-6e3c8a738803"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T081137Z
+    - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
+      Hint: Markdown
+      Value: |
+        ## コンポーネントリスト
+        
+        以下は、このサイトで提供されているサンプルコンポーネントのリストへのリンクです。一部のコンポーネントは各ページでも動作します。
+        
+        
