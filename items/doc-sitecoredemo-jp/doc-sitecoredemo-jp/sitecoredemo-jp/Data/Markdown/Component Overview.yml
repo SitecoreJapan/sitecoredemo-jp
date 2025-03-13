@@ -16,20 +16,27 @@ Languages:
       Value: 20250212T080244Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a97ce0ff-e33a-4c52-bb75-d2c9ff479fc9"
+      Value: "2539b9c5-e131-4708-8890-601c6e6086aa"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T081041Z
+      Value: 20250228T091744Z
     - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
       Hint: Markdown
       Value: |
         ## Component List
         
         The following are links to the list of sample components provided on this site. Some components also work on each page.
+        
+        ### Sample 1
+        
+        List
+        - Test
+        - Test
+        - Test
         
 - Language: "ja-JP"
   Versions:

@@ -54,16 +54,8 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{545B4DA7-DA98-4AD1-8861-7E26617FF712}"
-              p:after="r[@uid='{4085F4F4-D28E-4059-B115-2BA236BA235B}']"
-              s:ds="local:/Data/Home"
-              s:id="{AFCB6246-8ABE-4461-A4ED-BFF794285018}"
-              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BAEF64A23-AACA-45E5-A77F-567A6C287597%7D&amp;CSSStyles&amp;DynamicPlaceholderId=3"
-              s:ph="/headless-main/row-1-1" />
-            <r
               uid="{3DCA7473-10B8-4C0F-98EF-45371B950D5D}"
-              p:after="r[@uid='{545B4DA7-DA98-4AD1-8861-7E26617FF712}']"
-              s:ds=""
+              p:after="r[@uid='{4085F4F4-D28E-4059-B115-2BA236BA235B}']"
               s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
               s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B435AD413-FEE7-4E91-AD25-0D5E68F4E514%7D%7C%7BB0197045-FF3F-45B4-AFB9-FA8A572866DF%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
               s:ph="/headless-main/row-2-1" />
@@ -102,14 +94,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "addd3e37-23fc-4619-9f81-2c097e9829c6"
+      Value: "0547cd85-8970-4f88-acfd-b35deda1b696"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T054945Z
+      Value: 20250312T034830Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

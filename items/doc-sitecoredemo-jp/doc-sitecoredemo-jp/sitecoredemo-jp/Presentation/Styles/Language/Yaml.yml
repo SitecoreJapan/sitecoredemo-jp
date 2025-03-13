@@ -6,7 +6,7 @@ Path: "/sitecore/content/starter/sitecoredemo-jp/Presentation/Styles/Language/Ya
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: yaml
+  Value: "lang-yaml"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Value: "{AD0F4185-F1CE-4FE1-B901-74AB745445D9}"
@@ -32,11 +32,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5a8d0877-bb75-4d4a-9d20-ce0269f222b7"
+      Value: "bc707aab-95e5-4602-8f1c-4bc0e283a7b0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250227T074035Z
+      Value: 20250228T064009Z
