@@ -27,17 +27,17 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link text="Breadcrumbs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FBB5F83D-C2DD-48F2-8649-0532C11337BA}" />
+        <link text="Breadcrumbs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9CEA955A-A04D-48B4-A3CB-4ED7EC6E779C}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "70812850-2e3e-4c56-8cda-a454c8282763"
+      Value: "5d46ccef-7588-4b4d-b892-230b99dc737e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T080613Z
+      Value: 20250314T011214Z
 - Language: "ja-JP"
   Versions:
   - Version: 1
