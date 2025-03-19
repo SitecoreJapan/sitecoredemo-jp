@@ -1,0 +1,285 @@
+﻿---
+ID: "94d2ab3f-5680-4e6b-a670-bac66611798c"
+Parent: "b36b2953-32a8-424b-aa5e-64877493993b"
+Template: "8f955366-7f80-40c4-9403-36cf6e16fcfc"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/LinkList/Data/tsx"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import React from 'react';
+        import {
+          Link as JssLink,
+          Text,
+          LinkField,
+          useSitecoreContext,
+          SitecoreContextValue,
+          GetStaticComponentProps,
+        } from '@sitecore-jss/sitecore-jss-nextjs';
+        import { Fields, ResultsFieldLink, TitleQuery } from '../interfaces/LinkList';
+        import graphqlClientFactory from 'lib/graphql-client-factory';
+        
+        type LinkListProps = {
+          params: { [key: string]: string };
+          fields: Fields;
+          results: Fields;
+        };
+        
+        type LinkListItemProps = {
+          key: string;
+          index: number;
+          total: number;
+          field: LinkField;
+          locale: string;
+        };
+        
+        const LinkListItem = (props: LinkListItemProps) => {
+          let className = `item${props.index}`;
+          className += (props.index + 1) % 2 == 0 ? ' even' : ' odd';
+          if (props.index == 0) {
+            className += ' first';
+          }
+          if (props.index + 1 == props.total) {
+            className += ' last';
+          }
+        
+          return (
+            <li className={className}>
+              <div className="field-link">
+                <JssLink field={props.field} href={`${props.locale}${props.field.value.href}`} />
+              </div>
+            </li>
+          );
+        };
+        
+        const getLocale = function (props: SitecoreContextValue): string {
+          let locale;
+        
+          if (!props.language || props.language === `en`) {
+            locale = '';
+          } else {
+            locale = '/' + props.language;
+          }
+        
+          return locale;
+        };
+        
+        export const Default = (props: LinkListProps): JSX.Element => {
+          const { sitecoreContext } = useSitecoreContext();
+        
+          const contentLocale = getLocale(sitecoreContext);
+          let datasource = props.results?.data?.datasource;
+          if (sitecoreContext.pageEditing) {
+            datasource = props.fields.data.datasource;
+          }
+        
+          const styles = `component link-list ${props?.params?.styles}`.trimEnd();
+          const id = props.params.RenderingIdentifier;
+        
+          if (datasource) {
+            const list = datasource.children.results
+              .filter((element: ResultsFieldLink) => element?.field?.link)
+              .map((element: ResultsFieldLink, key: number) => (
+                <LinkListItem
+                  index={key}
+                  key={`${key}${element.field.link}`}
+                  total={datasource.children.results.length}
+                  field={element.field.link}
+                  locale={contentLocale}
+                />
+              ));
+        
+            return (
+              <div className={styles} id={id ? id : undefined}>
+                <div className="component-content">
+                  <Text tag="h3" field={datasource?.field?.title} />
+                  <ul>{list}</ul>
+                </div>
+              </div>
+            );
+          }
+        
+          return (
+            <div className={styles} id={id ? id : undefined}>
+              <div className="component-content">
+                <h3>Link List</h3>
+              </div>
+            </div>
+          );
+        };
+        
+        export const getStaticProps: GetStaticComponentProps = async (rendering, layoutData) => {
+          const graphQLClient = graphqlClientFactory();
+          const query = TitleQuery(rendering.dataSource, layoutData?.sitecore?.context?.language);
+          const queryresults = await graphQLClient.request<Fields>(query);
+          const results = { data: queryresults };
+          return {
+            results,
+          };
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T043433Z
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/LinkList.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44ab31be-51d3-4226-b6e4-801b7bf4348a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T043629Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import React from 'react';
+        import {
+          Link as JssLink,
+          Text,
+          LinkField,
+          useSitecoreContext,
+          SitecoreContextValue,
+          GetStaticComponentProps,
+        } from '@sitecore-jss/sitecore-jss-nextjs';
+        import { Fields, ResultsFieldLink, TitleQuery } from '../interfaces/LinkList';
+        import graphqlClientFactory from 'lib/graphql-client-factory';
+        
+        type LinkListProps = {
+          params: { [key: string]: string };
+          fields: Fields;
+          results: Fields;
+        };
+        
+        type LinkListItemProps = {
+          key: string;
+          index: number;
+          total: number;
+          field: LinkField;
+          locale: string;
+        };
+        
+        const LinkListItem = (props: LinkListItemProps) => {
+          let className = `item${props.index}`;
+          className += (props.index + 1) % 2 == 0 ? ' even' : ' odd';
+          if (props.index == 0) {
+            className += ' first';
+          }
+          if (props.index + 1 == props.total) {
+            className += ' last';
+          }
+        
+          return (
+            <li className={className}>
+              <div className="field-link">
+                <JssLink field={props.field} href={`${props.locale}${props.field.value.href}`} />
+              </div>
+            </li>
+          );
+        };
+        
+        const getLocale = function (props: SitecoreContextValue): string {
+          let locale;
+        
+          if (!props.language || props.language === `en`) {
+            locale = '';
+          } else {
+            locale = '/' + props.language;
+          }
+        
+          return locale;
+        };
+        
+        export const Default = (props: LinkListProps): JSX.Element => {
+          const { sitecoreContext } = useSitecoreContext();
+        
+          const contentLocale = getLocale(sitecoreContext);
+          let datasource = props.results?.data?.datasource;
+          if (sitecoreContext.pageEditing) {
+            datasource = props.fields.data.datasource;
+          }
+        
+          const styles = `component link-list ${props?.params?.styles}`.trimEnd();
+          const id = props.params.RenderingIdentifier;
+        
+          if (datasource) {
+            const list = datasource.children.results
+              .filter((element: ResultsFieldLink) => element?.field?.link)
+              .map((element: ResultsFieldLink, key: number) => (
+                <LinkListItem
+                  index={key}
+                  key={`${key}${element.field.link}`}
+                  total={datasource.children.results.length}
+                  field={element.field.link}
+                  locale={contentLocale}
+                />
+              ));
+        
+            return (
+              <div className={styles} id={id ? id : undefined}>
+                <div className="component-content">
+                  <Text tag="h3" field={datasource?.field?.title} />
+                  <ul>{list}</ul>
+                </div>
+              </div>
+            );
+          }
+        
+          return (
+            <div className={styles} id={id ? id : undefined}>
+              <div className="component-content">
+                <h3>Link List</h3>
+              </div>
+            </div>
+          );
+        };
+        
+        export const getStaticProps: GetStaticComponentProps = async (rendering, layoutData) => {
+          const graphQLClient = graphqlClientFactory();
+          const query = TitleQuery(rendering.dataSource, layoutData?.sitecore?.context?.language);
+          const queryresults = await graphQLClient.request<Fields>(query);
+          const results = { data: queryresults };
+          return {
+            results,
+          };
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T043805Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/LinkList.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8aac7000-2f65-472b-ae88-1ee969ff6631"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T043812Z

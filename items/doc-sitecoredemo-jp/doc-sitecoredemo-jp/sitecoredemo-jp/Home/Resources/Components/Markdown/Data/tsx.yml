@@ -1,0 +1,121 @@
+﻿---
+ID: "6122b358-849e-4985-8d02-8037a4699d7e"
+Parent: "a4172eb8-d1f6-447d-9c4d-0e8bb90efab9"
+Template: "8f955366-7f80-40c4-9403-36cf6e16fcfc"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/Markdown/Data/tsx"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import React from 'react';
+        import { Field, ComponentParams, ComponentRendering } from '@sitecore-jss/sitecore-jss-nextjs';
+        import Markdown from 'react-markdown';
+        import remarkGfm from 'remark-gfm';
+        
+        interface Fields {
+          Markdown: Field<string>;
+        }
+        
+        interface MarkdownProps {
+          rendering: ComponentRendering & { params: ComponentParams };
+          params: ComponentParams;
+          fields: Fields;
+        }
+        
+        export const Default = (props: MarkdownProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+        
+          const markdown = props.fields.Markdown.value;
+        
+          return (
+            <div className={`component markdown ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <Markdown remarkPlugins={[remarkGfm]}>{markdown}</Markdown>
+              </div>
+            </div>
+          );
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T035505Z
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/Markdown.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "451807e8-3416-44e7-935d-7fd9e9ba1423"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T035523Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import React from 'react';
+        import { Field, ComponentParams, ComponentRendering } from '@sitecore-jss/sitecore-jss-nextjs';
+        import Markdown from 'react-markdown';
+        import remarkGfm from 'remark-gfm';
+        
+        interface Fields {
+          Markdown: Field<string>;
+        }
+        
+        interface MarkdownProps {
+          rendering: ComponentRendering & { params: ComponentParams };
+          params: ComponentParams;
+          fields: Fields;
+        }
+        
+        export const Default = (props: MarkdownProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+        
+          const markdown = props.fields.Markdown.value;
+        
+          return (
+            <div className={`component markdown ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <Markdown remarkPlugins={[remarkGfm]}>{markdown}</Markdown>
+              </div>
+            </div>
+          );
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T042702Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/Markdown.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3db0c58c-8de8-4594-8e30-3ee3ea09b95c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T042723Z

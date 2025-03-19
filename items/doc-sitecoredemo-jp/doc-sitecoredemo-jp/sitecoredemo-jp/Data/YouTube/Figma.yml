@@ -1,0 +1,57 @@
+﻿---
+ID: "ce27c32e-cf94-430b-aba6-ddf833e3341a"
+Parent: "d2f325cf-bc8a-4061-934e-d1b83ad1c8f9"
+Template: "8a1a0a8c-b553-47c1-b0cc-4b370394242c"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Data/YouTube/Figma"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T035816Z
+    - ID: "76572272-555e-4663-9b1e-02b69ad5468c"
+      Hint: URL
+      Value: "https://www.youtube.com/watch?v=Ti3Clz_VxJw"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e281aa6-7a73-459c-9926-34214097b958"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T040502Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T040510Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "76572272-555e-4663-9b1e-02b69ad5468c"
+      Hint: URL
+      Value: "https://www.youtube.com/watch?v=Ti3Clz_VxJw"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6a3c2aa-6ac9-4932-95ad-383120fae51e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T040512Z

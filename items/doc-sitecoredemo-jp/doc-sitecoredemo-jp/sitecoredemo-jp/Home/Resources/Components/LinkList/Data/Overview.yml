@@ -1,0 +1,63 @@
+﻿---
+ID: "af41973a-819f-49aa-a232-7254cd446f3f"
+Parent: "b36b2953-32a8-424b-aa5e-64877493993b"
+Template: "6a7d5be4-5f7e-4eef-9e25-5d4e5bb9be3e"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/LinkList/Data/Overview"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T043418Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7b06c57-8b20-4dbd-be5f-e31cbe1ca2b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T044626Z
+    - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
+      Hint: Markdown
+      Value: |
+        ## Link List
+        
+        This component customizes standard list items, and the public site generates pages using Experience Edge.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T043815Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58d54f53-e0ea-4f10-85f3-c2520e2e0f6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T043831Z
+    - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
+      Hint: Markdown
+      Value: |
+        ## リストアイテム
+        
+        このコンポーネントは標準のリスト項目をカスタマイズし、パブリックサイトはエクスペリエンス・エッジを使用してページを生成します。

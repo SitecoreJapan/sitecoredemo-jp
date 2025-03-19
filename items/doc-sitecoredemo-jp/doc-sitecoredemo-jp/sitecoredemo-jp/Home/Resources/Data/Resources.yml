@@ -17,10 +17,10 @@ Languages:
     - ID: "2a2813c3-9bde-4d28-9452-45ab8d032943"
       Hint: HeroImage
       Value: |
-        <image src="https://sitecoredemojp.sitecoresandbox.cloud/api/public/content/1d99d5f748f94490835de6dc3ecb561c?v=b6e2a230" dam-id="cDArK2X0Q0i7pfX0xQZwPA" width="1100" height="733" alt="GettyImages-108645310.jpg" dam-content-type="Image" thumbnailsrc="https://sitecoredemojp.sitecoresandbox.cloud/api/gateway/34725/thumbnail" />
+        <image mediaid="f5c6e9d2-82dd-40c6-8914-eb991d6cc700" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9507497f-8927-4ba2-81c2-d621ffa65099"
+      Value: "af319cbe-ec7c-4401-aa91-724656b1ee58"
     - ID: "a8a66bfc-cfbb-4c46-b455-9962ccf0fda8"
       Hint: HeroTitle
       Value: XM Cloud resources
@@ -30,7 +30,7 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T051902Z
+      Value: 20250319T033528Z
     - ID: "f628b356-c4f6-4e8d-ae2f-f99f7480ae35"
       Hint: HeroText
       Value: |
@@ -39,13 +39,16 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250213T052327Z
     - ID: "2a2813c3-9bde-4d28-9452-45ab8d032943"
       Hint: HeroImage
       Value: |
-        <image width="5220" height="3480" dam-id="cDArK2X0Q0i7pfX0xQZwPA" src="https://sitecoredemojp.sitecoresandbox.cloud/api/public/content/1d99d5f748f94490835de6dc3ecb561c?v=b6e2a230" alt="GettyImages-108645310.jpg" dam-content-type="Image" thumbnailsrc="https://sitecoredemojp.sitecoresandbox.cloud/api/gateway/34725/thumbnail" />
+        <image mediaid="f5c6e9d2-82dd-40c6-8914-eb991d6cc700" />
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -56,7 +59,7 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "10e87253-0ee3-4d2e-bf3f-9522b091813d"
+      Value: "25b19ee4-0851-4b2c-84b4-217e2ea5e918"
     - ID: "a8a66bfc-cfbb-4c46-b455-9962ccf0fda8"
       Hint: HeroTitle
       Value: XM Cloud リソース
@@ -66,7 +69,7 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T052403Z
+      Value: 20250319T033557Z
     - ID: "f628b356-c4f6-4e8d-ae2f-f99f7480ae35"
       Hint: HeroText
       Value: <p>このセクションでは、XM Cloudのコンポーネントについて紹介します。</p>

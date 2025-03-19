@@ -1,0 +1,219 @@
+﻿---
+ID: "6cba13b7-33e8-435a-95bc-ca1ecaa0b432"
+Parent: "cb1865ae-ee5e-4bfb-8f96-50b88db707de"
+Template: "8f955366-7f80-40c4-9403-36cf6e16fcfc"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/CodeBlock/Data/tsx"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import { useEffect, useState } from 'react';
+        import { codeToHtml } from 'shiki';
+        import { Clipboard } from 'lucide-react';
+        import { ComponentParams, ComponentRendering, Field } from '@sitecore-jss/sitecore-jss-nextjs';
+        
+        interface Fields {
+          Code: Field<string>;
+          Filename: Field<string>;
+        }
+        interface CodeBlockProps {
+          rendering: ComponentRendering & { params: ComponentParams };
+          params: ComponentParams;
+          fields: Fields;
+        }
+        
+        export const Default = (props: CodeBlockProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+          const [html, setHtml] = useState<string>('');
+          const [code, setCode] = useState<string>('');
+          const [tooltipVisible, setTooltipVisible] = useState<boolean>(false);
+        
+          const styles = props.params.styles;
+        
+          let lang = 'html';
+          if (styles) {
+            const classes = styles.split(' ');
+            const langClass = classes.find((cls) => cls.startsWith('lang-'));
+            if (langClass) {
+              lang = langClass.substring(5);
+            }
+          }
+        
+          const filename = props.fields.Filename.value || 'Sample';
+        
+          useEffect(() => {
+            const code = props.fields.Code.value;
+        
+            setCode(code);
+        
+            codeToHtml(code, {
+              lang: lang,
+              theme: 'github-dark',
+              meta: { filePath: filename },
+            }).then((result) => {
+              setHtml(result);
+            });
+          }, [props.fields.Code.value, lang, filename]);
+        
+          const handleCopyToClipboard = () => {
+            navigator.clipboard.writeText(code).then(() => {
+              setTooltipVisible(true);
+              setTimeout(() => {
+                setTooltipVisible(false);
+              }, 1000);
+            });
+          };
+        
+          return (
+            <div className={`component code ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <div className="relative">
+                  <button
+                    onClick={handleCopyToClipboard}
+                    className="absolute top-4 right-4 bg-gray-800 text-white p-2 rounded-sm z-10"
+                  >
+                    <Clipboard />
+                  </button>
+                  {tooltipVisible && (
+                    <div className="absolute top-4 z-20 right-14 bg-white p-1 rounded-sm">Copied!</div>
+                  )}
+                  <div className="p-4 rounded-md" dangerouslySetInnerHTML={{ __html: html }} />
+                </div>
+                {/* <Text className="m-4 p-2 border-spacing-2" field={props.fields.Code} tag="p" /> */}
+              </div>
+            </div>
+          );
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T042834Z
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/Code.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87cae68d-6d4d-400b-bff7-b3e23a1bec16"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T042907Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import { useEffect, useState } from 'react';
+        import { codeToHtml } from 'shiki';
+        import { Clipboard } from 'lucide-react';
+        import { ComponentParams, ComponentRendering, Field } from '@sitecore-jss/sitecore-jss-nextjs';
+        
+        interface Fields {
+          Code: Field<string>;
+          Filename: Field<string>;
+        }
+        interface CodeBlockProps {
+          rendering: ComponentRendering & { params: ComponentParams };
+          params: ComponentParams;
+          fields: Fields;
+        }
+        
+        export const Default = (props: CodeBlockProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+          const [html, setHtml] = useState<string>('');
+          const [code, setCode] = useState<string>('');
+          const [tooltipVisible, setTooltipVisible] = useState<boolean>(false);
+        
+          const styles = props.params.styles;
+        
+          let lang = 'html';
+          if (styles) {
+            const classes = styles.split(' ');
+            const langClass = classes.find((cls) => cls.startsWith('lang-'));
+            if (langClass) {
+              lang = langClass.substring(5);
+            }
+          }
+        
+          const filename = props.fields.Filename.value || 'Sample';
+        
+          useEffect(() => {
+            const code = props.fields.Code.value;
+        
+            setCode(code);
+        
+            codeToHtml(code, {
+              lang: lang,
+              theme: 'github-dark',
+              meta: { filePath: filename },
+            }).then((result) => {
+              setHtml(result);
+            });
+          }, [props.fields.Code.value, lang, filename]);
+        
+          const handleCopyToClipboard = () => {
+            navigator.clipboard.writeText(code).then(() => {
+              setTooltipVisible(true);
+              setTimeout(() => {
+                setTooltipVisible(false);
+              }, 1000);
+            });
+          };
+        
+          return (
+            <div className={`component code ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <div className="relative">
+                  <button
+                    onClick={handleCopyToClipboard}
+                    className="absolute top-4 right-4 bg-gray-800 text-white p-2 rounded-sm z-10"
+                  >
+                    <Clipboard />
+                  </button>
+                  {tooltipVisible && (
+                    <div className="absolute top-4 z-20 right-14 bg-white p-1 rounded-sm">Copied!</div>
+                  )}
+                  <div className="p-4 rounded-md" dangerouslySetInnerHTML={{ __html: html }} />
+                </div>
+                {/* <Text className="m-4 p-2 border-spacing-2" field={props.fields.Code} tag="p" /> */}
+              </div>
+            </div>
+          );
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T043240Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/Code.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74dab873-9efc-402d-ac98-32bb7e73ca8b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T043306Z

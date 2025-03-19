@@ -1,0 +1,64 @@
+﻿---
+ID: "d2de883f-e771-4414-8892-8318b655b5e7"
+Parent: "a6220d02-02ca-4119-a629-d23bb31d97b4"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Link Lists/Component/CodeBlock"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T040612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="CodeBlock" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{83E114F8-7BC7-4E09-AC9E-3DBF255E6114}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f907239-624a-43b9-a0b8-8bc637ceca8e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T041011Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T041055Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="コードブロック" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{83E114F8-7BC7-4E09-AC9E-3DBF255E6114}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1dfef570-ce39-4ea3-ad38-31169e9f4149"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T041106Z

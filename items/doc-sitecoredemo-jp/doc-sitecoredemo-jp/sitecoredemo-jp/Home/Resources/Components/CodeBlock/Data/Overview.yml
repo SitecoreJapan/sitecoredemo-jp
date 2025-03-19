@@ -1,0 +1,73 @@
+﻿---
+ID: "c2ecc308-28de-486b-958d-63689881a914"
+Parent: "cb1865ae-ee5e-4bfb-8f96-50b88db707de"
+Template: "6a7d5be4-5f7e-4eef-9e25-5d4e5bb9be3e"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/CodeBlock/Data/Overview"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T042820Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "def4eb47-8177-47f6-be02-8be7f7cf967d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T043103Z
+    - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
+      Hint: Markdown
+      Value: |
+        ## CodeBlock Component
+        
+        This is a component for displaying sample code, as used on this page.
+        
+        ### Package in use
+        
+        - Shiki
+        - Lucide-react
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T043308Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89df9955-0b8e-43b6-9cb6-c6aab5b0b0ef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T043347Z
+    - ID: "edabb227-61db-49bc-9e0b-f30932f72da8"
+      Hint: Markdown
+      Value: |
+        ## コードブロック コンポーネント
+        
+        このページで使用されているサンプルコードを表示するためのコンポーネントです。
+        
+        ### 利用しているパッケージ
+        
+        - Shiki
+        - Lucide-react

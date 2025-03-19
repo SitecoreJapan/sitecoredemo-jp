@@ -25,9 +25,17 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{BCAA1738-A849-4689-9C9A-8EEE8AC9089F}"
+              p:before="*"
               s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="/headless-main/sxa-navigation/row-2-1" />
+            <r
+              uid="{27D340F2-4AC4-46DC-8AF2-EAA3DC90906B}"
+              p:after="*[1=2]"
+              s:ds="a6220d02-02ca-4119-a629-d23bb31d97b4"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B65EC8D21-D37E-4A61-A019-D8E406C20D7D%7D&amp;Styles=%7C%7B9BDAEBD2-DC17-44DD-87DE-8BEA0C959469%7D&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-navigation/row-2-1/row-1-1" />
           </d>
         </r>
     - ID: "12059dd7-e305-4e5c-8f88-11a7f42bab9c"
@@ -41,14 +49,14 @@ Languages:
       Value: Components
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0461fff0-90ac-41d0-962c-c8162f56abd1"
+      Value: "fefb9700-3b27-4809-b2d0-4cf71395563c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250228T092951Z
+      Value: 20250319T042328Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
