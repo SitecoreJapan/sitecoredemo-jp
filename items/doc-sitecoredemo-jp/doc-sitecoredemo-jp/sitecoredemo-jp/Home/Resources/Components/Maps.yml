@@ -1,0 +1,133 @@
+﻿---
+ID: "0fbffa70-c410-41cc-9898-c547f354a149"
+Parent: "8bea2445-4e61-4fd5-ad58-a5e126a9ccf5"
+Template: "9d5288c5-3269-4346-a06c-c211fef13d03"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/Maps"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0B125C5B-05B1-4B67-9549-5C5C6B274B5A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AD2C9ABF-F066-4D31-9943-4D257491C705}"
+              p:before="*"
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-article/row-2-1" />
+            <r
+              uid="{064D8CC3-5461-4351-B3E2-9A9E43458F91}"
+              p:after="r[@uid='{AD2C9ABF-F066-4D31-9943-4D257491C705}']"
+              s:ds="local:/Data/Overview"
+              s:id="{A9CF1EA0-EB49-4681-B855-1CE292529F6F}"
+              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B52032005-BF79-4F6B-B391-72D003E9F65B%7D&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-article/row-2-1/row-1-1" />
+            <r
+              uid="{D229F92A-B667-4B79-A7FC-889B16862B1B}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/tsx"
+              s:id="{AD0F4185-F1CE-4FE1-B901-74AB745445D9}"
+              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B5AE94F28-253D-41BC-BB56-ED63C1F7B59B%7D&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-article/row-2-1/row-2-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T033836Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Maps
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eed67266-f0d9-433d-bca4-af221959c04f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T044555Z
+    - ID: "dd63dc33-af92-49a6-9596-37d2e6eeddd2"
+      Hint: Title
+      Value: Maps
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 地図
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7630513E-C40F-4F94-9774-BE75AB7EC8E3}"
+              p:before="*"
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-article/row-2-1" />
+            <r
+              uid="{1AC007DC-CB02-474A-837C-450911F48564}"
+              p:after="r[@uid='{7630513E-C40F-4F94-9774-BE75AB7EC8E3}']"
+              s:ds="local:/Data/Overview"
+              s:id="{A9CF1EA0-EB49-4681-B855-1CE292529F6F}"
+              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B52032005-BF79-4F6B-B391-72D003E9F65B%7D&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-article/row-2-1/row-1-1" />
+            <r
+              uid="{74F49B00-320C-4FBD-9868-E097D94D60C3}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/tsx"
+              s:id="{AD0F4185-F1CE-4FE1-B901-74AB745445D9}"
+              s:par="Reset Caching Options&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B5AE94F28-253D-41BC-BB56-ED63C1F7B59B%7D&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-article/row-2-1/row-2-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T041152Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 地図
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "972f3c71-bb6d-4606-8617-5b170bf2cd7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T044718Z
+    - ID: "dd63dc33-af92-49a6-9596-37d2e6eeddd2"
+      Hint: Title
+      Value: 地図

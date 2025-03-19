@@ -25,17 +25,17 @@ Languages:
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <div class="ck-content"><h2>Figma Sample</h2><p>You can check component using Figma</p><p>&nbsp;</p><ul><li><a href="~/link.aspx?_id=2307B085BCD6443FA5E3E82AB9CFEEB2&amp;_z=z">Learn more</a></li></ul></div>
+        <h2>Figma Sample</h2><p>You can check component using Figma</p><p><br /></p><ul><li><a href="~/link.aspx?_id=2307B085BCD6443FA5E3E82AB9CFEEB2&amp;_z=z" rel="noopener noreferrer">Learn more</a></li></ul>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e34a200-36cb-43ed-b543-325466640646"
+      Value: "3791d5c4-2865-4325-aa0d-bfe5a336d20d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T052239Z
+      Value: 20250319T035721Z
 - Language: "ja-JP"
   Versions:
   - Version: 1

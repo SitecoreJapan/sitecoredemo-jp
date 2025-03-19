@@ -1,0 +1,159 @@
+﻿---
+ID: "599f57ed-6702-41ab-9d87-dc651a13ba6d"
+Parent: "1a0c0336-a1f9-4262-99db-575aed5d279a"
+Template: "8f955366-7f80-40c4-9403-36cf6e16fcfc"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/Breadcrumbs/Data/Interface"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        export interface Ancestor {
+          field: {
+            value: string;
+          };
+          url: {
+            path: string;
+          };
+        }
+        
+        export interface Fields {
+          data: {
+            item: {
+              ancestors: Ancestor[];
+            };
+          };
+        }
+        
+        const templateIDs = 'A25F725D-9FF0-4EBB-9CE4-7AD92CFDBCB9';
+        //   'A25F725D-9FF0-4EBB-9CE4-7AD92CFDBCB9',
+        //   'F5D9AE9C-A8A8-452F-9653-680ADB855B65',
+        //   '2A8C794E-16C9-467C-AF43-6B8F93A3F8ED',
+        // ];
+        
+        export const BreadcrumbsQuery = (contextItem: string | undefined, language: string | undefined) => {
+          return `
+        fragment breadcrumbFields on Item {
+            field(name: "NavigationTitle") {
+                ... on TextField {
+                    value
+                }
+            }
+            url {
+                path
+            }
+        }
+        query BreadcrumbQuery {
+            item(path: "${contextItem}", language: "${language}") {
+                ancestors(
+                    hasLayout: true
+                    includeTemplateIDs: "${templateIDs}"
+                ) {
+                    ...breadcrumbFields
+                }
+            }
+        }
+        `;
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T034645Z
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/interfaces/Breadcrumbs.ts
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d2f3920-4922-4b2f-b219-5e7af66e9f73"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T034703Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        export interface Ancestor {
+          field: {
+            value: string;
+          };
+          url: {
+            path: string;
+          };
+        }
+        
+        export interface Fields {
+          data: {
+            item: {
+              ancestors: Ancestor[];
+            };
+          };
+        }
+        
+        const templateIDs = 'A25F725D-9FF0-4EBB-9CE4-7AD92CFDBCB9';
+        //   'A25F725D-9FF0-4EBB-9CE4-7AD92CFDBCB9',
+        //   'F5D9AE9C-A8A8-452F-9653-680ADB855B65',
+        //   '2A8C794E-16C9-467C-AF43-6B8F93A3F8ED',
+        // ];
+        
+        export const BreadcrumbsQuery = (contextItem: string | undefined, language: string | undefined) => {
+          return `
+        fragment breadcrumbFields on Item {
+            field(name: "NavigationTitle") {
+                ... on TextField {
+                    value
+                }
+            }
+            url {
+                path
+            }
+        }
+        query BreadcrumbQuery {
+            item(path: "${contextItem}", language: "${language}") {
+                ancestors(
+                    hasLayout: true
+                    includeTemplateIDs: "${templateIDs}"
+                ) {
+                    ...breadcrumbFields
+                }
+            }
+        }
+        `;
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T035040Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/interfaces/Breadcrumbs.ts
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "289cf445-9a39-4667-acb5-02b5a897d312"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T035100Z

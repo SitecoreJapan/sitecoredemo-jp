@@ -1,0 +1,241 @@
+﻿---
+ID: "b69eee5a-0dff-48dd-b6b9-568ddd7990d7"
+Parent: "c768cc3e-b053-46f8-b112-bd55d27f60be"
+Template: "8f955366-7f80-40c4-9403-36cf6e16fcfc"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Home/Resources/Components/Youtube/Data/tsx"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import React, { useState } from 'react';
+        import Image from 'next/image';
+        import { Field, ComponentParams, ComponentRendering } from '@sitecore-jss/sitecore-jss-nextjs';
+        import { YouTubeEmbed } from '@next/third-parties/google';
+        import { X } from 'lucide-react';
+        
+        interface Fields {
+          URL: Field<string>;
+        }
+        interface YouTubeProps {
+          rendering: ComponentRendering & { params: ComponentParams };
+          params: ComponentParams;
+          fields: Fields;
+        }
+        
+        export const Default = (props: YouTubeProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+          const videoId =
+            new URLSearchParams(new URL(props.fields.URL.value).search).get('v') || 'dQw4w9WgXcQ';
+        
+          return (
+            <div className={`component youtube ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <YouTubeEmbed videoid={videoId} width={640} height={400} playlabel="Play" params="" />
+              </div>
+            </div>
+          );
+        };
+        
+        export const Zoom = (props: YouTubeProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+          const videoId =
+            new URLSearchParams(new URL(props.fields.URL.value).search).get('v') || 'dQw4w9WgXcQ';
+          const videoThumbnail = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+          const videoSrc = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        
+          const [isOpen, setIsOpen] = useState(false);
+        
+          const openModal = () => setIsOpen(true);
+          const closeModal = () => setIsOpen(false);
+        
+          return (
+            <div className={`component youtube ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <div className="relative w-full max-w-md mx-auto cursor-pointer" onClick={openModal}>
+                  <Image
+                    src={videoThumbnail}
+                    alt="YouTube Thumbnail"
+                    width={480}
+                    height={270}
+                    className="rounded-lg shadow-lg transition-transform hover:scale-105"
+                  />
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="bg-black/50 p-3 rounded-full">
+                      <svg className="w-12 h-12 text-white" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M8 5v14l11-7z" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                {isOpen && (
+                  <div
+                    className="fixed inset-0 flex items-center justify-center bg-black/80 z-50"
+                    onClick={closeModal}
+                  >
+                    <div className="relative w-full max-w-3xl p-4" onClick={(e) => e.stopPropagation()}>
+                      <button
+                        className="absolute top-4 right-4 text-white bg-black/50 p-2 rounded-full hover:bg-black"
+                        onClick={closeModal}
+                      >
+                        <X className="w-6 h-6" />
+                      </button>
+                      <div className="relative aspect-video w-full bg-black rounded-lg overflow-hidden">
+                        <iframe
+                          className="w-full h-full"
+                          src={videoSrc}
+                          title="YouTube video player"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                        />
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          );
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T041442Z
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/YouTube.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a85369f3-8e0b-40bb-9c7b-bbab42e837f6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T041554Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17cb13d3-723f-4bb7-8159-e92ef73c80f9"
+      Hint: Code
+      Value: |
+        import React, { useState } from 'react';
+        import Image from 'next/image';
+        import { Field, ComponentParams, ComponentRendering } from '@sitecore-jss/sitecore-jss-nextjs';
+        import { YouTubeEmbed } from '@next/third-parties/google';
+        import { X } from 'lucide-react';
+        
+        interface Fields {
+          URL: Field<string>;
+        }
+        interface YouTubeProps {
+          rendering: ComponentRendering & { params: ComponentParams };
+          params: ComponentParams;
+          fields: Fields;
+        }
+        
+        export const Default = (props: YouTubeProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+          const videoId =
+            new URLSearchParams(new URL(props.fields.URL.value).search).get('v') || 'dQw4w9WgXcQ';
+        
+          return (
+            <div className={`component youtube ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <YouTubeEmbed videoid={videoId} width={640} height={400} playlabel="Play" params="" />
+              </div>
+            </div>
+          );
+        };
+        
+        export const Zoom = (props: YouTubeProps): JSX.Element => {
+          const id = props.params.RenderingIdentifier;
+          const videoId =
+            new URLSearchParams(new URL(props.fields.URL.value).search).get('v') || 'dQw4w9WgXcQ';
+          const videoThumbnail = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+          const videoSrc = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        
+          const [isOpen, setIsOpen] = useState(false);
+        
+          const openModal = () => setIsOpen(true);
+          const closeModal = () => setIsOpen(false);
+        
+          return (
+            <div className={`component youtube ${props.params.styles}`} id={id ? id : undefined}>
+              <div className="component-content">
+                <div className="relative w-full max-w-md mx-auto cursor-pointer" onClick={openModal}>
+                  <Image
+                    src={videoThumbnail}
+                    alt="YouTube Thumbnail"
+                    width={480}
+                    height={270}
+                    className="rounded-lg shadow-lg transition-transform hover:scale-105"
+                  />
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="bg-black/50 p-3 rounded-full">
+                      <svg className="w-12 h-12 text-white" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M8 5v14l11-7z" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                {isOpen && (
+                  <div
+                    className="fixed inset-0 flex items-center justify-center bg-black/80 z-50"
+                    onClick={closeModal}
+                  >
+                    <div className="relative w-full max-w-3xl p-4" onClick={(e) => e.stopPropagation()}>
+                      <button
+                        className="absolute top-4 right-4 text-white bg-black/50 p-2 rounded-full hover:bg-black"
+                        onClick={closeModal}
+                      >
+                        <X className="w-6 h-6" />
+                      </button>
+                      <div className="relative aspect-video w-full bg-black rounded-lg overflow-hidden">
+                        <iframe
+                          className="w-full h-full"
+                          src={videoSrc}
+                          title="YouTube video player"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                        />
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          );
+        };
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250319T041602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "80f5b096-0010-4e15-b929-b6b0eaff6473"
+      Hint: Filename
+      Value: src/components/YouTube.tsx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65290f46-a79e-4476-8a81-81b2ffda2d54"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250319T041606Z

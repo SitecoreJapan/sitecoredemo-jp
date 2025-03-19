@@ -1,8 +1,8 @@
 ﻿---
-ID: "da30e254-ec86-4c33-94a4-5c4e677c3898"
+ID: "551c2f57-4326-4814-9351-6f881506d665"
 Parent: "a6220d02-02ca-4119-a629-d23bb31d97b4"
 Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
-Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Link Lists/Component/Markdown"
+Path: "/sitecore/content/starter/sitecoredemo-jp/Data/Link Lists/Component/MarkDown"
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250213T051240Z
+      Value: 20250319T040634Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -22,28 +22,24 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link text="Markdown" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6C94E8E8-FA69-42A6-9A31-7ED324E69D58}" />
+        <link text="Markdown" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D2815F21-81FE-4040-BDC7-5DE2C83E62E8}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "da270ce3-71b8-4166-b196-b24a04a27972"
+      Value: "52dce382-4de4-4a60-8d84-5b913ab3f722"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T051255Z
+      Value: 20250319T041035Z
 - Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: マークダウン
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250213T051128Z
+      Value: 20250319T044115Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -55,14 +51,14 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link text="マークダウン" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6C94E8E8-FA69-42A6-9A31-7ED324E69D58}" />
+        <link text="マークダウン" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D2815F21-81FE-4040-BDC7-5DE2C83E62E8}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "55db500f-250e-4ea6-9c19-35616fbb959c"
+      Value: "f3f5d6ae-e96b-4edb-af84-17dd2c1ef8cf"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250213T051320Z
+      Value: 20250319T044148Z

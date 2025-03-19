@@ -27,17 +27,17 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link text="Breadcrumbs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FBB5F83D-C2DD-48F2-8649-0532C11337BA}" />
+        <link text="Breadcrumbs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{38CD5357-5BFC-4CDD-BF6C-EC0DF841CF10}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "70812850-2e3e-4c56-8cda-a454c8282763"
+      Value: "e3763c0d-4e12-4d10-960d-3decfd2e019c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T080613Z
+      Value: 20250319T040555Z
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -56,14 +56,14 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link text="パンクズリスト" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FBB5F83D-C2DD-48F2-8649-0532C11337BA}" />
+        <link text="パンくず" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{38CD5357-5BFC-4CDD-BF6C-EC0DF841CF10}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f201d2ac-ec3c-4848-9ce9-e4d1c10221a4"
+      Value: "58c4939c-de5f-4e7c-8bcd-d3308811556b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250212T081329Z
+      Value: 20250319T041052Z
